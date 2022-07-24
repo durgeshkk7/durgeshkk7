@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Durgesh
+A Passionate enthusiast Data Analytics
 - 👀 I’m working in BPO
-- 🌱 I’m currently learning Data Analytics
+- 🌱 currently learning Data Analytics
 - 💞️ I’m looking to get Job as Data Analyst/Business Analyst
-- 📫 How to reach me Linkedin
+Languages and Tools:
+    mysql pandas python
+ NumPy Jupyter Notebook Microsoft Office Power BI
+- 📫 How to reach me durgesh0047@gmail.com
 
 <!---
 durgeshkk7/durgeshkk7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
