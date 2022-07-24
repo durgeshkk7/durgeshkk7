@@ -3,9 +3,10 @@ A Passionate enthusiast Data Analytics
 - 👀 I’m working in BPO
 - 🌱 currently learning Data Analytics
 - 💞️ I’m looking to get Job as Data Analyst/Business Analyst
-Languages and Tools:
-    mysql pandas python
- NumPy Jupyter Notebook Microsoft Office Power BI
+    Languages and Tools:
+    
+       mysql pandas python
+   NumPy Jupyter Notebook Microsoft Office Power BI
 - 📫 How to reach me durgesh0047@gmail.com
 
 <!---
